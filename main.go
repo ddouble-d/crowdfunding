@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crowdfounding/user"
+	"crowdfunding/user"
 	"net/http"
 	"os"
 
